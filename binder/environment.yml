@@ -10,9 +10,12 @@ dependencies:
     - r-ggplot2
     - r-reshape2
     - r-tidyverse
+    - r-plotly
+    - r-stringr
     - pip
     - pip:
         - pandas
         - matplotlib
         - numpy
         - scipy
+        - scikitlearn
