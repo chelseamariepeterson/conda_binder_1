@@ -12,10 +12,10 @@ dependencies:
     - r-tidyverse
     - r-plotly
     - r-stringr
+    - scikitlearn
     - pip
     - pip:
         - pandas
         - matplotlib
         - numpy
         - scipy
-        - scikitlearn
